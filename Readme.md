@@ -35,6 +35,8 @@ SELECT \
 			IF(count_product > 300, "Большой заказ", " " )))\
 	 AS "Тип заказа"\
 FROM sales;
+
+![](2.jpg)
  
 3. Задание №3
 
@@ -71,3 +73,8 @@ CASE\
     WHEN order_status = "CANSELLED" THEN "Order is canselled"\
 END AS "full_order_status"\
 FROM orders;
+
+![](3-1.jpg)
+
+![](3-2.jpg)
+
