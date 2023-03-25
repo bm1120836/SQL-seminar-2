@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS sales\
     
  SELECT *\
  FROM sales;
+
+ ![](HW2/1.jpg)
     
 2. Задание №2
 
@@ -55,8 +57,8 @@ CREATE TABLE IF NOT EXISTS orders\
     (4, "e02", "22.18", "OPEN"),\
     (5, "e04", "9.50", "CANSELLED");
     
-     SELECT *\
-     FROM orders;
+SELECT *\
+FROM orders;
      
 SELECT \
     id AS "id",\
