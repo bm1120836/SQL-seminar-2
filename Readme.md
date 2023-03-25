@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS sales\
  SELECT *\
  FROM sales;
 
- ![](HW2/1.jpg)
+ ![](1.jpg)
     
 2. Задание №2
 
